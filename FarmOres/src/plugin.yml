@@ -1,0 +1,14 @@
+name: FarmOres
+main: me.oculustwist.main.FarmOres
+version: 1.0
+author: OculusTwist
+softdepend: [WorldGuard]
+commands:
+    farmores:
+      description: FarmOres command
+      usage: /<command>
+      aliases: [fm, farmore]
+    seed:
+      description: Give players farmore seeds
+      usage: /<command>
+      aliases: [fmseed, farmoreseed, farmoreseeds, fmseeds]
